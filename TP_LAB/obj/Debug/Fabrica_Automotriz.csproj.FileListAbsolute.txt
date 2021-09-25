@@ -1,0 +1,159 @@
+C:\Users\bruno\source\repos\TP_LAB\TP_LAB\bin\Debug\TP_LAB.exe.config
+C:\Users\bruno\source\repos\TP_LAB\TP_LAB\bin\Debug\TP_LAB.exe
+C:\Users\bruno\source\repos\TP_LAB\TP_LAB\bin\Debug\TP_LAB.pdb
+C:\Users\bruno\source\repos\TP_LAB\TP_LAB\obj\Debug\Fabrica_Automotriz.csprojAssemblyReference.cache
+C:\Users\bruno\source\repos\TP_LAB\TP_LAB\obj\Debug\TP_LAB.Properties.Resources.resources
+C:\Users\bruno\source\repos\TP_LAB\TP_LAB\obj\Debug\Fabrica_Automotriz.csproj.GenerateResource.cache
+C:\Users\bruno\source\repos\TP_LAB\TP_LAB\obj\Debug\Fabrica_Automotriz.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\TP_LAB\TP_LAB\obj\Debug\TP_LAB.exe
+C:\Users\bruno\source\repos\TP_LAB\TP_LAB\obj\Debug\TP_LAB.pdb
+C:\Users\bruno\source\repos\TP_LAB\TP_LAB\obj\Debug\TP_LAB.frmConsultas.resources
+C:\Users\bruno\source\repos\TP_LAB\TP_LAB\obj\Debug\TP_LAB.frmVehiculos.resources
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\bin\Debug\TP_LAB.exe.config
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\bin\Debug\TP_LAB.exe
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\bin\Debug\TP_LAB.pdb
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\obj\Debug\Fabrica_Automotriz.csprojAssemblyReference.cache
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\obj\Debug\TP_LAB.frmConsultas.resources
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\obj\Debug\TP_LAB.frmVehiculos.resources
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\obj\Debug\TP_LAB.Properties.Resources.resources
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\obj\Debug\Fabrica_Automotriz.csproj.GenerateResource.cache
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\obj\Debug\Fabrica_Automotriz.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\obj\Debug\TP_LAB.exe
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\obj\Debug\TP_LAB.pdb
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\obj\Debug\TP_LAB.frmAutopartes.resources
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\bin\Debug\EnvDTE.dll
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\bin\Debug\stdole.dll
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\bin\Debug\Microsoft.MSXML.dll
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\obj\Debug\TP_LAB.frmReporte.resources
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\obj\Debug\RdlCompile.cache
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\obj\Debug\RdlCompile.compiled
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\obj\Debug\Fabrica_Automotriz.csproj.CopyComplete
+C:\Users\bruno\Desktop\TP_LAB\TP_LAB\obj\Debug\TP_LAB.frmReportes2.resources
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\bin\Debug\TP_LAB.exe.config
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\bin\Debug\TP_LAB.exe
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\bin\Debug\TP_LAB.pdb
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\bin\Debug\EnvDTE.dll
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\bin\Debug\stdole.dll
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\obj\Debug\Fabrica_Automotriz.csprojAssemblyReference.cache
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\obj\Debug\TP_LAB.frmAutopartes.resources
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\obj\Debug\TP_LAB.frmConsultas.resources
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\obj\Debug\TP_LAB.frmReporte.resources
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\obj\Debug\TP_LAB.frmReportes2.resources
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\obj\Debug\TP_LAB.frmVehiculos.resources
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\obj\Debug\TP_LAB.Properties.Resources.resources
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\obj\Debug\Fabrica_Automotriz.csproj.GenerateResource.cache
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\obj\Debug\Fabrica_Automotriz.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\obj\Debug\Fabrica_Automotriz.csproj.CopyComplete
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\obj\Debug\TP_LAB.exe
+C:\Users\Tomas\Downloads\TP LAB TERMINADO\TP_LAB\TP_LAB\obj\Debug\TP_LAB.pdb

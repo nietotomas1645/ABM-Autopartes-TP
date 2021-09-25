@@ -1,0 +1,10 @@
+C:\Users\bruno\source\repos\TP_LAB\TP_LAB\bin\Debug\TP_LAB.exe.config
+C:\Users\bruno\source\repos\TP_LAB\TP_LAB\bin\Debug\TP_LAB.exe
+C:\Users\bruno\source\repos\TP_LAB\TP_LAB\bin\Debug\TP_LAB.pdb
+C:\Users\bruno\source\repos\TP_LAB\TP_LAB\obj\Debug\TP_LAB.csprojAssemblyReference.cache
+C:\Users\bruno\source\repos\TP_LAB\TP_LAB\obj\Debug\TP_LAB.Properties.Resources.resources
+C:\Users\bruno\source\repos\TP_LAB\TP_LAB\obj\Debug\TP_LAB.csproj.GenerateResource.cache
+C:\Users\bruno\source\repos\TP_LAB\TP_LAB\obj\Debug\TP_LAB.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\TP_LAB\TP_LAB\obj\Debug\TP_LAB.exe
+C:\Users\bruno\source\repos\TP_LAB\TP_LAB\obj\Debug\TP_LAB.pdb
+C:\Users\bruno\source\repos\TP_LAB\TP_LAB\obj\Debug\TP_LAB.Form1.resources
